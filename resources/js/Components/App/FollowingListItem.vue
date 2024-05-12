@@ -12,8 +12,19 @@ const searchKeyword = ref('');
         <div v-if="false" class="text-gray-400 text-center">
             You dont have any followers yat
         </div>
-        <div v-else class="h-screen	 overflow-auto">
+        <div v-else class="h-screen	overflow-auto">
             <FollowingItem title="Laravel Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
+            <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
             <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
             <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
             <FollowingItem title="Vue.js Developer" image="https://picsum.photos/id/237/200" />
