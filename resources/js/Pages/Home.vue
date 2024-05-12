@@ -6,9 +6,7 @@ import PostList from '@/Components/App/PostList.vue';
 import FollowingList from '@/Components/App/FollowingList.vue';
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 
-defineProps({
 
-});
 
 </script>
 
@@ -16,7 +14,7 @@ defineProps({
 
     <Head title="Social Media Website" />
     <AuthenticatedLayout>
-    <div class="grid lg:grid-cols-12 gap-3 py-3">
+    <div class="grid lg:grid-cols-12 gap-3 py-3 ">
         <div class="lg:col-span-3  lg:order-1">
          <GroupList/>
         </div>
